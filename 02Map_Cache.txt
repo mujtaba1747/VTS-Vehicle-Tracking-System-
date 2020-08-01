@@ -1,0 +1,1953 @@
+19.36
+84.7
+Kumbhajhari, Ganjām, Ganjam, Odisha, India
+19.36
+84.71000000000001
+Mahuri Kalua Road, Kumbhajhari, Ganjām, Ganjam, Odisha, 761100, India
+19.36
+84.72000000000001
+SH17, Lanjiya, Ganjām, Ganjam, Odisha, 761100, India
+19.36
+84.73000000000002
+SH17, Lanjiya, Ganjām, Ganjam, Odisha, 761100, India
+19.36
+84.74000000000002
+Lochapada, Lanjiya, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.75000000000003
+Lochapada, Lanjiya, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.76000000000003
+Lochapada, Lanjiya, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.77000000000004
+Lochapada, Krupasindhupur, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.78000000000004
+Lochapada, Krupasindhupur, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.79000000000005
+Lochapada, Nimakhandi, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.80000000000005
+Lochapada, Borigam, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.81000000000006
+Lochapada, Nimakhandi, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.82000000000006
+Gandhi Nagar, Lochapada, Jogiapalli, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.83000000000007
+Lochapada, Gurunthi, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.84000000000007
+TATA COLONY, Lochapada, Jagannathpur, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.85000000000008
+Balajipalli, Ganjām, Ganjam, Odisha, 761001, India
+19.36
+84.86000000000008
+Sitlapalli, Ganjām, Ganjam, Odisha, India
+19.36
+84.87000000000009
+TATA COLONY, Sitlapalli, Ganjām, Ganjam, Odisha, India
+19.36
+84.8800000000001
+New Nagaradiha, Ganjām, Ganjam, Odisha, India
+19.36
+84.8900000000001
+Laxmi Pur, Ganjām, Ganjam, Odisha, 761003, India
+19.36
+84.9000000000001
+TATA COLONY, Laxmi Pur, Ganjām, Ganjam, Odisha, 761003, India
+19.36
+84.91000000000011
+TATA COLONY, Laxmi Pur, Ganjām, Ganjam, Odisha, 761003, India
+19.36
+84.92000000000012
+Narasingapur, Ganjām, Ganjam, Odisha, 761045, India
+19.36
+84.93000000000012
+Narasingapur, Ganjām, Ganjam, Odisha, 761045, India
+19.36
+84.94
+Ghadaghada palli - Narsimhapur station road, Brahamanipalli, Ganjām, Ganjam, Odisha, 761020, India
+19.36
+84.95
+Sindurapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.36
+84.96000000000001
+Chhatrapur - Tanganapalli Road, Ramlaxmi Nagar, Balibagad, Ganjām, Ganjam, Odisha, 761020, India
+19.36
+84.97000000000001
+Chhatrapur - Tanganapalli Road, Ramlaxmi Nagar, Chhatrapur, Ganjām, Ganjam, Odisha, 761020, India
+19.36
+84.98000000000002
+Way to Chatrapur Railway Station, New Police line, Chhatrapur, Ganjām, Ganjam, Odisha, 761020, India
+19.36
+84.99000000000002
+Main Road Chatrapur, Rickapalli, Chhatrapur, Ganjām, Ganjam, Odisha, 761020, India
+19.36
+85.00000000000003
+Palia Chatrapur, Kumarbegpalli, Ganjām, Ganjam, Odisha, 761020, India
+19.349999999999998
+84.7
+Kumbhajhari, Ganjām, Ganjam, Odisha, India
+19.349999999999998
+84.71000000000001
+Mahuri Kalua Road, Kumbhajhari, Ganjām, Ganjam, Odisha, 761100, India
+19.349999999999998
+84.72000000000001
+Buribadha, Ganjām, Ganjam, Odisha, 761100, India
+19.349999999999998
+84.73000000000002
+Lanjiya, Ganjām, Ganjam, Odisha, 761100, India
+19.349999999999998
+84.74000000000002
+SH17, Lanjiya, Ganjām, Ganjam, Odisha, 761100, India
+19.349999999999998
+84.75000000000003
+SH17, Prem Nagar, Dharma Nagar, Dakhinapur, Ganjām, Ganjam, Odisha, 760002, India
+19.349999999999998
+84.76000000000003
+Dharma Nagar, Ambagada, Ganjām, Ganjam, Odisha, 761100, India
+19.349999999999998
+84.77000000000004
+Lochapada, Jagadalpur, Ganjām, Ganjam, Odisha, 761001, India
+19.349999999999998
+84.78000000000004
+Lochapada, Jagadalpur, Ganjām, Ganjam, Odisha, 761001, India
+19.349999999999998
+84.79000000000005
+Lochapada, Nimakhandi, Ganjām, Ganjam, Odisha, 761001, India
+19.349999999999998
+84.80000000000005
+Lochapada, Nimakhandi, Ganjām, Ganjam, Odisha, 761001, India
+19.349999999999998
+84.81000000000006
+Lochapada, Nimakhandi, Ganjām, Ganjam, Odisha, 761001, India
+19.349999999999998
+84.82000000000006
+Gandhi Nagar, Lochapada, Jogiapalli, Ganjām, Ganjam, Odisha, 761001, India
+19.349999999999998
+84.83000000000007
+Lochapada, Jhadankuli, Ganjām, Ganjam, Odisha, 761001, India
+19.349999999999998
+84.84000000000007
+TATA COLONY, Lochapada, Jagannathpur, Ganjām, Ganjam, Odisha, 761001, India
+19.349999999999998
+84.85000000000008
+TATA COLONY, Lochapada, Jagannathpur, Ganjām, Ganjam, Odisha, 761001, India
+19.349999999999998
+84.86000000000008
+TATA COLONY, Sitlapalli, Ganjām, Ganjam, Odisha, 761003, India
+19.349999999999998
+84.87000000000009
+SH32, TATA COLONY, Jagannathpur, Ganjām, Ganjam, Odisha, India
+19.349999999999998
+84.8800000000001
+TATA COLONY, Laxmi Pur, Ganjām, Ganjam, Odisha, 761003, India
+19.349999999999998
+84.8900000000001
+TATA COLONY, Laxmi Pur, Ganjām, Ganjam, Odisha, 761003, India
+19.349999999999998
+84.9000000000001
+Govindpur, Ganjām, Ganjam, Odisha, 761045, India
+19.349999999999998
+84.91000000000011
+Govindpur, Ganjām, Ganjam, Odisha, 761045, India
+19.349999999999998
+84.92000000000012
+Banabulapalli, Ganjām, Ganjam, Odisha, 761045, India
+19.349999999999998
+84.93000000000012
+Chamakhandi, Ganjām, Ganjam, Odisha, 761045, India
+19.349999999999998
+84.94000000000013
+Ghadaghada palli - Narsimhapur station road, Brahamanipalli, Ganjām, Ganjam, Odisha, 761020, India
+19.349999999999998
+84.95000000000013
+Sindrapalli Road, Ramlaxmi Nagar, Sindurapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.349999999999998
+84.96000000000014
+NH16, Ramlaxmi Nagar, Chamakhandi, Ganjām, Ganjam, Odisha, 761045, India
+19.349999999999998
+84.97000000000014
+Puruna Chatrapur, Takiaya Berhampur, Ganjām, Ganjam, Odisha, 761020, India
+19.349999999999998
+84.98000000000015
+Service Road, Puruna Chatrapur, Chhatrapur, Ganjām, Ganjam, Odisha, 761020, India
+19.349999999999998
+84.99000000000015
+Ram Nagar, Chhatrapur, Ganjām, Ganjam, Odisha, 761020, India
+19.349999999999998
+85.00000000000016
+Tampara Lake, Takiya berhampur Road, Bata Chatrapur, Takiaya Berhampur, Ganjām, Ganjam, Odisha, 761020, India
+19.339999999999996
+84.7
+Kumbhajhari, Ganjām, Ganjam, Odisha, India
+19.339999999999996
+84.71000000000001
+Mahuri Kalua Temple, Mahuri Kalua Road, Kumbhajhari, Ganjām, Ganjam, Odisha, 761100, India
+19.339999999999996
+84.72000000000001
+Buribadha, Ganjām, Ganjam, Odisha, 761100, India
+19.339999999999996
+84.73000000000002
+Lanjiya, Ganjām, Ganjam, Odisha, 761100, India
+19.339999999999996
+84.74000000000002
+Dakhinapur, Ganjām, Ganjam, Odisha, 761100, India
+19.339999999999996
+84.75000000000003
+SH17, Prem Nagar, Dharma Nagar, Dakhinapur, Ganjām, Ganjam, Odisha, 760002, India
+19.339999999999996
+84.76000000000003
+Dharma Nagar, Ambagada, Ganjām, Ganjam, Odisha, 761100, India
+19.339999999999996
+84.77000000000004
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.339999999999996
+84.78000000000004
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.339999999999996
+84.79000000000005
+Lochapada, Jagadalpur, Ganjām, Ganjam, Odisha, 761001, India
+19.339999999999996
+84.80000000000005
+Lochapada, Nimakhandi, Ganjām, Ganjam, Odisha, 761001, India
+19.339999999999996
+84.81000000000006
+Gandhi Nagar, Lochapada, Jogiapalli, Ganjām, Ganjam, Odisha, 761001, India
+19.339999999999996
+84.82000000000006
+Gajapati Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.339999999999996
+84.83000000000007
+Lochapada, Jhadankuli, Ganjām, Ganjam, Odisha, 761001, India
+19.339999999999996
+84.84000000000007
+Lochapada, Jhadankuli, Ganjām, Ganjam, Odisha, 761001, India
+19.339999999999996
+84.85000000000008
+TATA COLONY, Jagannathpur, Ganjām, Ganjam, Odisha, 761003, India
+19.339999999999996
+84.86000000000008
+TATA COLONY, Lochapada, Jagannathpur, Ganjām, Ganjam, Odisha, 761001, India
+19.339999999999996
+84.87000000000009
+SH32, TATA COLONY, Jagannathpur, Ganjām, Ganjam, Odisha, India
+19.339999999999996
+84.8800000000001
+Raghunathpur, Ganjām, Ganjam, Odisha, India
+19.339999999999996
+84.8900000000001
+Govindpur, Ganjām, Ganjam, Odisha, 761045, India
+19.339999999999996
+84.9000000000001
+Govindpur, Ganjām, Ganjam, Odisha, India
+19.339999999999996
+84.91000000000011
+Govindpur, Ganjām, Ganjam, Odisha, 761045, India
+19.339999999999996
+84.92000000000012
+NH16, Ramlaxmi Nagar, Chamakhandi, Ganjām, Ganjam, Odisha, 761045, India
+19.339999999999996
+84.93000000000012
+Chamakhandi, Ganjām, Ganjam, Odisha, 761045, India
+19.339999999999996
+84.94000000000013
+NH16, Ramlaxmi Nagar, Chamakhandi, Ganjām, Ganjam, Odisha, 761045, India
+19.339999999999996
+84.95000000000013
+Mayapatna - Chandrapada - Chasa Road, Chasa, Ganjām, Ganjam, Odisha, 761020, India
+19.339999999999996
+84.96000000000014
+titanium plant Road, Surf Titanium Plant, Mayapatana, Ganjām, Ganjam, Odisha, 761020, India
+19.339999999999996
+84.97000000000014
+NH516A, Bata Chatrapur, Kanamana, Ganjām, Ganjam, Odisha, 761020, India
+19.339999999999996
+84.98000000000015
+NH516A, Bata Chatrapur, Chhatrapur, Ganjām, Ganjam, Odisha, 761020, India
+19.339999999999996
+84.99000000000015
+Palia Road, Bata Chatrapur, Chhatrapur, Ganjām, Ganjam, Odisha, 761020, India
+19.339999999999996
+85.00000000000016
+Palia Chatrapur, Kumarbegpalli, Ganjām, Ganjam, Odisha, 761020, India
+19.329999999999995
+84.7
+Kumbhajhari, Ganjām, Ganjam, Odisha, India
+19.329999999999995
+84.71000000000001
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.329999999999995
+84.72000000000001
+Prem Nagar, Dharma Nagar, Sukunda, Ganjām, Ganjam, Odisha, 760002, India
+19.329999999999995
+84.73000000000002
+Prem Nagar, Dharma Nagar, Sukunda, Ganjām, Ganjam, Odisha, 760002, India
+19.329999999999995
+84.74000000000002
+Gunthabandha, Ganjām, Ganjam, Odisha, 760002, India
+19.329999999999995
+84.75000000000003
+Dharma Nagar, Ambagada, Ganjām, Ganjam, Odisha, 760002, India
+19.329999999999995
+84.76000000000003
+SH17, Prem Nagar, Dharma Nagar, Dakhinapur, Ganjām, Ganjam, Odisha, 760002, India
+19.329999999999995
+84.77000000000004
+NH59, Prem Nagar, Dharma Nagar, Ratnapur, Ganjām, Ganjam, Odisha, 761100, India
+19.329999999999995
+84.78000000000004
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.329999999999995
+84.79000000000005
+Gandhi Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.329999999999995
+84.80000000000005
+Lochapada, Nimakhandi, Ganjām, Ganjam, Odisha, 761001, India
+19.329999999999995
+84.81000000000006
+Gajapati Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.329999999999995
+84.82000000000006
+Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.329999999999995
+84.83000000000007
+Lochapada, Jhadankuli, Ganjām, Ganjam, Odisha, 761001, India
+19.329999999999995
+84.84000000000007
+Lochapada, Jhadankuli, Ganjām, Ganjam, Odisha, 761001, India
+19.329999999999995
+84.85000000000008
+Ambapua, Ganjām, Ganjam, Odisha, 760001, India
+19.329999999999995
+84.86000000000008
+TATA COLONY, Jagannathpur, Ganjām, Ganjam, Odisha, 761003, India
+19.329999999999995
+84.87000000000009
+Jagannathapur, SH32, TATA COLONY, Jagannathpur, Ganjām, Ganjam, Odisha, India
+19.329999999999995
+84.8800000000001
+Raghunathpur, Ganjām, Ganjam, Odisha, India
+19.329999999999995
+84.8900000000001
+NH16, Raghunathpur, Ganjām, Ganjam, Odisha, India
+19.329999999999995
+84.9000000000001
+NH16, Ramlaxmi Nagar, Chamakhandi, Ganjām, Ganjam, Odisha, 761045, India
+19.329999999999995
+84.91000000000011
+TATA Industries Park, Chamakhandi vllage, Ganjām, Ganjam, Odisha, 761045, India
+19.329999999999995
+84.92000000000012
+Chamakhandi vllage, Ganjām, Ganjam, Odisha, 761045, India
+19.329999999999995
+84.93000000000012
+Chamakhandi, Ganjām, Ganjam, Odisha, 761045, India
+19.329999999999995
+84.94000000000013
+I.R.E.L Housing Colony, Ganjām, Ganjam, Odisha, India
+19.329999999999995
+84.95000000000013
+Mayapatna - Chandrapada - Chasa Road, Chasa, Ganjām, Ganjam, Odisha, 761020, India
+19.329999999999995
+84.96000000000014
+Gyan wine shop, NH516A, Bata Chatrapur, Kanamana, Ganjām, Ganjam, Odisha, 761020, India
+19.329999999999995
+84.97000000000014
+NH516A, Bata Chatrapur, Kanamana, Ganjām, Ganjam, Odisha, 761020, India
+19.329999999999995
+84.98000000000015
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.329999999999995
+84.99000000000015
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.329999999999995
+85.00000000000016
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.319999999999993
+84.7
+Kumbhajhari, Ganjām, Ganjam, Odisha, India
+19.319999999999993
+84.71000000000001
+Kumbhajhari, Ganjām, Ganjam, Odisha, India
+19.319999999999993
+84.72000000000001
+Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.319999999999993
+84.73000000000002
+Prem Nagar, Dharma Nagar, Sukunda, Ganjām, Ganjam, Odisha, 760002, India
+19.319999999999993
+84.74000000000002
+Prem Nagar, Dharma Nagar, Sukunda, Ganjām, Ganjam, Odisha, 760002, India
+19.319999999999993
+84.75000000000003
+Prem Nagar, Dharma Nagar, Sukunda, Ganjām, Ganjam, Odisha, 760002, India
+19.319999999999993
+84.76000000000003
+Prem Nagar, Dharma Nagar, Sukunda, Ganjām, Ganjam, Odisha, 760002, India
+19.319999999999993
+84.77000000000004
+Prem Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.319999999999993
+84.78000000000004
+Aska Road, Prem Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.319999999999993
+84.79000000000005
+Gandhi Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.319999999999993
+84.80000000000005
+Gandhi Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.319999999999993
+84.81000000000006
+Gajapati Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.319999999999993
+84.82000000000006
+Gajapati Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.319999999999993
+84.83000000000007
+Gajapati Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.319999999999993
+84.84000000000007
+Lochapada, Jhadankuli, Ganjām, Ganjam, Odisha, 761001, India
+19.319999999999993
+84.85000000000008
+Lochapada, Ambapua, Ganjām, Ganjam, Odisha, 761001, India
+19.319999999999993
+84.86000000000008
+Ambapua Main Road, Lochapada, Ambapua, Ganjām, Ganjam, Odisha, 761001, India
+19.319999999999993
+84.87000000000009
+NH16, Raghunathpur, Ganjām, Ganjam, Odisha, India
+19.319999999999993
+84.8800000000001
+Mandiapalli, Ganjām, Ganjam, Odisha, India
+19.319999999999993
+84.8900000000001
+TATA Industries Park, Raghunathpur, Ganjām, Ganjam, Odisha, India
+19.319999999999993
+84.9000000000001
+TATA Industries Park, Chamakhandi vllage, Ganjām, Ganjam, Odisha, 761045, India
+19.319999999999993
+84.91000000000011
+TATA Industries Park, Chamakhandi vllage, Ganjām, Ganjam, Odisha, 761045, India
+19.319999999999993
+84.92000000000012
+Chamakhandi vllage, Ganjām, Ganjam, Odisha, 761045, India
+19.319999999999993
+84.93000000000012
+Chamakhandi, Ganjām, Ganjam, Odisha, 761045, India
+19.319999999999993
+84.94000000000013
+I.R.E.L Housing Colony, Ganjām, Ganjam, Odisha, India
+19.319999999999993
+84.95000000000013
+OSCOM Road, Kalia Bali, Ganjām, Ganjam, Odisha, 761045, India
+19.319999999999993
+84.96000000000014
+Mayapatna - Chandrapada - Chasa Road, Chasa, Ganjām, Ganjam, Odisha, 761020, India
+19.319999999999993
+84.97000000000014
+New Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.319999999999993
+84.98000000000015
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.319999999999993
+84.99000000000015
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.319999999999993
+85.00000000000016
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.30999999999999
+84.7
+Narsinghapur, Ganjām, Ganjam, Odisha, India
+19.30999999999999
+84.71000000000001
+Narsinghapur, Ganjām, Ganjam, Odisha, India
+19.30999999999999
+84.72000000000001
+Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.30999999999999
+84.73000000000002
+Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.30999999999999
+84.74000000000002
+Sukunda, Ganjām, Ganjam, Odisha, 760002, India
+19.30999999999999
+84.75000000000003
+Dharma Nagar, Sukunda, Ganjām, Ganjam, Odisha, 760002, India
+19.30999999999999
+84.76000000000003
+Housing Board Colony, Dharma Nagar, Lathi, Ganjām, Ganjam, Odisha, 760002, India
+19.30999999999999
+84.77000000000004
+Housing Board Colony, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.30999999999999
+84.78000000000004
+Shakti, Prem Nagar 7th Lane (1st Extn), Prem Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.30999999999999
+84.79000000000005
+Berhampur Stadium, New Barracks Road, Gandhi Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.30999999999999
+84.80000000000005
+Gandhi Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.30999999999999
+84.81000000000006
+MKCG Medical College and Hospital, NH59, Ayodhya Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.30999999999999
+84.82000000000006
+Gajapati Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.30999999999999
+84.83000000000007
+Life Insurance Corporation of India Office, Khodasinghi Main Road, Gajapati Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.30999999999999
+84.84000000000007
+GopalPur Road, Lochapada, Ambapua, Ganjām, Ganjam, Odisha, 761001, India
+19.30999999999999
+84.85000000000008
+Behrampur Bypass, Lochapada, Ambapua, Ganjām, Ganjam, Odisha, 761001, India
+19.30999999999999
+84.86000000000008
+Behrampur Bypass, Lochapada, Ambapua, Ganjām, Ganjam, Odisha, 761001, India
+19.30999999999999
+84.87000000000009
+Mandiapalli, Ganjām, Ganjam, Odisha, India
+19.30999999999999
+84.8800000000001
+Jagannathpur Karapalli Road, Mandiapalli, Ganjām, Ganjam, Odisha, 761002, India
+19.30999999999999
+84.8900000000001
+TATA Industries Park, Rangai Lunda, Ganjām, Ganjam, Odisha, 761002, India
+19.30999999999999
+84.9000000000001
+TATA Industries Park, Mandiapalli, Ganjām, Ganjam, Odisha, India
+19.30999999999999
+84.91000000000011
+TATA Industries Park, Mandiapalli, Ganjām, Ganjam, Odisha, India
+19.30999999999999
+84.92000000000012
+Laxmipur, Ganjām, Ganjam, Odisha, 761002, India
+19.30999999999999
+84.93000000000012
+Chamakhandi, Ganjām, Ganjam, Odisha, 761045, India
+19.30999999999999
+84.94000000000013
+Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.30999999999999
+84.95000000000013
+Matikhala, Ganjām, Ganjam, Odisha, 761045, India
+19.30999999999999
+84.96000000000014
+NH516A, Bata Chatrapur, Kanamana, Ganjām, Ganjam, Odisha, 761020, India
+19.30999999999999
+84.97000000000014
+Indian Rare Earth Limited (IREL), Arya palli, Ganjām, Ganjam, Odisha, 761020, India
+19.30999999999999
+84.98000000000015
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.30999999999999
+84.99000000000015
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.30999999999999
+85.00000000000016
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.29999999999999
+84.7
+Narsinghapur, Ganjām, Ganjam, Odisha, India
+19.29999999999999
+84.71000000000001
+Narsinghapur, Ganjām, Ganjam, Odisha, India
+19.29999999999999
+84.72000000000001
+Narsinghapur, Ganjām, Ganjam, Odisha, India
+19.29999999999999
+84.73000000000002
+Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.29999999999999
+84.74000000000002
+SH22, Dharma Nagar, Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.29999999999999
+84.75000000000003
+SH22, Housing Board Colony, Dharma Nagar, Lathi, Ganjām, Ganjam, Odisha, 760002, India
+19.29999999999999
+84.76000000000003
+Housing Board Colony, Dharma Nagar, Lathi, Ganjām, Ganjam, Odisha, 760002, India
+19.29999999999999
+84.77000000000004
+Housing Board Colony, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.29999999999999
+84.78000000000004
+Housing Board Colony, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.29999999999999
+84.79000000000005
+Gandhi Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.29999999999999
+84.80000000000005
+Gandhi Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.29999999999999
+84.81000000000006
+Ayodhya Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760001, India
+19.29999999999999
+84.82000000000006
+Ayodhya Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.29999999999999
+84.83000000000007
+Gajapati Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.29999999999999
+84.84000000000007
+Behrampur Bypass, Gajapati Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.29999999999999
+84.85000000000008
+Lochapada, Ambapua, Ganjām, Ganjam, Odisha, 761001, India
+19.29999999999999
+84.86000000000008
+NH516, Lochapada, Karapalli, Ganjām, Ganjam, Odisha, 761001, India
+19.29999999999999
+84.87000000000009
+NH516, Lochapada, Karapalli, Ganjām, Ganjam, Odisha, 761001, India
+19.29999999999999
+84.8800000000001
+Berhampur University, Jagannathpur Karapalli Road, Mandiapalli, Ganjām, Ganjam, Odisha, 761002, India
+19.29999999999999
+84.8900000000001
+Rangai Lunda, Ganjām, Ganjam, Odisha, 761002, India
+19.29999999999999
+84.9000000000001
+TATA Industries Park, Mandiapalli, Ganjām, Ganjam, Odisha, India
+19.29999999999999
+84.91000000000011
+TATA Industries Park, Mandiapalli, Ganjām, Ganjam, Odisha, India
+19.29999999999999
+84.92000000000012
+TATA Industries Park, Mandiapalli, Ganjām, Ganjam, Odisha, India
+19.29999999999999
+84.93000000000012
+Chamakhandi, Ganjām, Ganjam, Odisha, 761045, India
+19.29999999999999
+84.94000000000013
+NH516A, Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.29999999999999
+84.95000000000013
+NH516A, Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.29999999999999
+84.96000000000014
+GopalPur Port, Matikhala, Ganjām, Ganjam, Odisha, 761045, India
+19.29999999999999
+84.97000000000014
+Arya palli, Ganjām, Ganjam, Odisha, 761045, India
+19.29999999999999
+84.98000000000015
+Arya palli, Ganjām, Ganjam, Odisha, 761045, India
+19.29999999999999
+84.99000000000015
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.29999999999999
+85.00000000000016
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.28999999999999
+84.7
+Narsinghapur, Ganjām, Ganjam, Odisha, India
+19.28999999999999
+84.71000000000001
+Narsinghapur, Ganjām, Ganjam, Odisha, India
+19.28999999999999
+84.72000000000001
+Narsinghapur, Ganjām, Ganjam, Odisha, India
+19.28999999999999
+84.73000000000002
+SH22, Dharma Nagar, Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.28999999999999
+84.74000000000002
+Dharma Nagar, Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.28999999999999
+84.75000000000003
+Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.28999999999999
+84.76000000000003
+Dharma Nagar, Lathi, Ganjām, Ganjam, Odisha, 760002, India
+19.28999999999999
+84.77000000000004
+Lathi, Ganjām, Ganjam, Odisha, 760002, India
+19.28999999999999
+84.78000000000004
+Housing Board Colony, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.28999999999999
+84.79000000000005
+Gandhi Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.28999999999999
+84.80000000000005
+Gandhi Nagar, Dharma Nagar, Khajuria, Ganjām, Ganjam, Odisha, 760004, India
+19.28999999999999
+84.81000000000006
+Behrampur Bypass, Ayodhya Nagar, Dharma Nagar, Khajuria, Ganjām, Ganjam, Odisha, 760001, India
+19.28999999999999
+84.82000000000006
+Ayodhya Nagar, Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760001, India
+19.28999999999999
+84.83000000000007
+Ayodhya Nagar, Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.28999999999999
+84.84000000000007
+Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.28999999999999
+84.85000000000008
+Ambapua, Ganjām, Ganjam, Odisha, 760001, India
+19.28999999999999
+84.86000000000008
+Karapalli, Ganjām, Ganjam, Odisha, 761002, India
+19.28999999999999
+84.87000000000009
+NH516, Lochapada, Karapalli, Ganjām, Ganjam, Odisha, 761001, India
+19.28999999999999
+84.8800000000001
+Berhampur University, Jagannathpur Karapalli Road, Mandiapalli, Ganjām, Ganjam, Odisha, 761002, India
+19.28999999999999
+84.8900000000001
+Rangai Lunda, Ganjām, Ganjam, Odisha, 761002, India
+19.28999999999999
+84.9000000000001
+Alipur, Ganjām, Ganjam, Odisha, 761002, India
+19.28999999999999
+84.91000000000011
+TATA Industries Park, Mandiapalli, Ganjām, Ganjam, Odisha, India
+19.28999999999999
+84.92000000000012
+NH516A, Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.28999999999999
+84.93000000000012
+NH516A, Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.28999999999999
+84.94000000000013
+Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.28999999999999
+84.95000000000013
+Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.28999999999999
+84.96000000000014
+Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.28999999999999
+84.97000000000014
+Arya palli, Ganjām, Ganjam, Odisha, 761045, India
+19.28999999999999
+84.98000000000015
+Arya palli, Ganjām, Ganjam, Odisha, 761045, India
+19.28999999999999
+84.99000000000015
+Arya palli, Ganjām, Ganjam, Odisha, 761045, India
+19.28999999999999
+85.00000000000016
+Old Aryapalli, Ganjām, Ganjam, Odisha, 761020, India
+19.279999999999987
+84.7
+Kanheputia, Ganjām, Ganjam, Odisha, India
+19.279999999999987
+84.71000000000001
+Narsinghapur, Ganjām, Ganjam, Odisha, India
+19.279999999999987
+84.72000000000001
+SH22, Dharma Nagar, Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.279999999999987
+84.73000000000002
+SH22, Dharma Nagar, Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.279999999999987
+84.74000000000002
+Narsinghapur, Ganjām, Ganjam, Odisha, India
+19.279999999999987
+84.75000000000003
+Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.279999999999987
+84.76000000000003
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.279999999999987
+84.77000000000004
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.279999999999987
+84.78000000000004
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.279999999999987
+84.79000000000005
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.279999999999987
+84.80000000000005
+Dharma Nagar, Khajuria, Ganjām, Ganjam, Odisha, 760001, India
+19.279999999999987
+84.81000000000006
+Dharma Nagar, Khajuria, Ganjām, Ganjam, Odisha, 760001, India
+19.279999999999987
+84.82000000000006
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760001, India
+19.279999999999987
+84.83000000000007
+Khajuria, Ganjām, Ganjam, Odisha, 760001, India
+19.279999999999987
+84.84000000000007
+Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.279999999999987
+84.85000000000008
+Karapalli, Ganjām, Ganjam, Odisha, 761002, India
+19.279999999999987
+84.86000000000008
+Karapalli, Ganjām, Ganjam, Odisha, 761002, India
+19.279999999999987
+84.87000000000009
+Karapalli, Ganjām, Ganjam, Odisha, 761002, India
+19.279999999999987
+84.8800000000001
+NH516, Lochapada, Karapalli, Ganjām, Ganjam, Odisha, 761001, India
+19.279999999999987
+84.8900000000001
+NH516, Lochapada, Karapalli, Ganjām, Ganjam, Odisha, 761001, India
+19.279999999999987
+84.9000000000001
+NH516, Lochapada, Karapalli, Ganjām, Ganjam, Odisha, 761001, India
+19.279999999999987
+84.91000000000011
+NH516A, Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.279999999999987
+84.92000000000012
+NH516A, Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.279999999999987
+84.93000000000012
+Uppalaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.279999999999987
+84.94000000000013
+Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.279999999999987
+84.95000000000013
+Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.279999999999987
+84.96000000000014
+Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.279999999999987
+84.97000000000014
+Arya palli, Ganjām, Ganjam, Odisha, 761045, India
+19.279999999999987
+84.98000000000015
+Arya palli, Ganjām, Ganjam, Odisha, 761045, India
+19.279999999999987
+84.99000000000015
+Arya palli, Ganjām, Ganjam, Odisha, 761045, India
+19.279999999999987
+85.00000000000016
+Chhatrapur, Ganjām, Ganjam, Odisha, 761020, India
+19.269999999999985
+84.7
+Kanheputia, Ganjām, Ganjam, Odisha, India
+19.269999999999985
+84.71000000000001
+Kanheputia, Ganjām, Ganjam, Odisha, India
+19.269999999999985
+84.72000000000001
+SH22, Dharma Nagar, Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.269999999999985
+84.73000000000002
+Kanheputia, Ganjām, Ganjam, Odisha, India
+19.269999999999985
+84.74000000000002
+Narsinghapur, Ganjām, Ganjam, Odisha, India
+19.269999999999985
+84.75000000000003
+Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.269999999999985
+84.76000000000003
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.269999999999985
+84.77000000000004
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.269999999999985
+84.78000000000004
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.269999999999985
+84.79000000000005
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760001, India
+19.269999999999985
+84.80000000000005
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760001, India
+19.269999999999985
+84.81000000000006
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760001, India
+19.269999999999985
+84.82000000000006
+Khajuria, Ganjām, Ganjam, Odisha, 760001, India
+19.269999999999985
+84.83000000000007
+Khajuria, Ganjām, Ganjam, Odisha, 760001, India
+19.269999999999985
+84.84000000000007
+Lochapada, Brahmapur, Ganjām, Ganjam, Odisha, 761001, India
+19.269999999999985
+84.85000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.86000000000008
+Karapalli, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.87000000000009
+Karapalli, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.8800000000001
+Karapalli, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.8900000000001
+Alipur, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.9000000000001
+NH516, Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.91000000000011
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.92000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.93000000000012
+Uppalaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.94000000000013
+Uppalaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.95000000000013
+Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.96000000000014
+Badaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.97000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.98000000000015
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.269999999999985
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.269999999999985
+85.00000000000016
+Ganjām, Ganjam, Odisha, India
+19.259999999999984
+84.7
+Kankia, Ganjām, Ganjam, Odisha, India
+19.259999999999984
+84.71000000000001
+SH22, Dharma Nagar, Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.259999999999984
+84.72000000000001
+SH22, Dharma Nagar, Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.259999999999984
+84.73000000000002
+Kanheputia, Ganjām, Ganjam, Odisha, India
+19.259999999999984
+84.74000000000002
+Kanheputia, Ganjām, Ganjam, Odisha, India
+19.259999999999984
+84.75000000000003
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.259999999999984
+84.76000000000003
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.259999999999984
+84.77000000000004
+NH16, Dharma Nagar, Girisola, Ganjām, Ganjam, Odisha, 532312, India
+19.259999999999984
+84.78000000000004
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.259999999999984
+84.79000000000005
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, India
+19.259999999999984
+84.80000000000005
+Khajuria, Ganjām, Ganjam, Odisha, 760001, India
+19.259999999999984
+84.81000000000006
+Khajuria, Ganjām, Ganjam, Odisha, 760001, India
+19.259999999999984
+84.82000000000006
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760001, India
+19.259999999999984
+84.83000000000007
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760001, India
+19.259999999999984
+84.84000000000007
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.85000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.86000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.87000000000009
+Karapalli, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.8800000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.8900000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.9000000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.91000000000011
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.92000000000012
+Uppalaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.93000000000012
+Uppalaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.94000000000013
+Uppalaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.95000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.96000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.97000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.98000000000015
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.259999999999984
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.259999999999984
+85.00000000000016
+Ganjām, Ganjam, Odisha, India
+19.249999999999982
+84.7
+SH22, Dharma Nagar, Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.249999999999982
+84.71000000000001
+SH22, Dharma Nagar, Mohuda, Ganjām, Ganjam, Odisha, 760002, India
+19.249999999999982
+84.72000000000001
+Kankia, Ganjām, Ganjam, Odisha, India
+19.249999999999982
+84.73000000000002
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.249999999999982
+84.74000000000002
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.249999999999982
+84.75000000000003
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.249999999999982
+84.76000000000003
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.249999999999982
+84.77000000000004
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.249999999999982
+84.78000000000004
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.249999999999982
+84.79000000000005
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.249999999999982
+84.80000000000005
+Dharma Nagar, Brahmapur, Ganjām, Ganjam, Odisha, 760002, India
+19.249999999999982
+84.81000000000006
+Khajuria, Ganjām, Ganjam, Odisha, 760001, India
+19.249999999999982
+84.82000000000006
+Khajuria, Ganjām, Ganjam, Odisha, 760001, India
+19.249999999999982
+84.83000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.249999999999982
+84.84000000000007
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.85000000000008
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.86000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.87000000000009
+Brahmapur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.8800000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.8900000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.9000000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.91000000000011
+Uppalaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.92000000000012
+Uppalaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.93000000000012
+Uppalaputi, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.94000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.95000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.96000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.97000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.98000000000015
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.249999999999982
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.249999999999982
+85.00000000000016
+Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.7
+Kankia, Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.71000000000001
+Kankia, Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.72000000000001
+Kankia, Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.73000000000002
+Kankia, Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.74000000000002
+Golantara, Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.75000000000003
+Golantara, Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.76000000000003
+NH16, Dharma Nagar, Girisola, Ganjām, Ganjam, Odisha, 532312, India
+19.23999999999998
+84.77000000000004
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.78000000000004
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.79000000000005
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.80000000000005
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.81000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.23999999999998
+84.82000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.23999999999998
+84.83000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.23999999999998
+84.84000000000007
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.85000000000008
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.86000000000008
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.87000000000009
+Brahmapur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.8800000000001
+Brahmapur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.8900000000001
+Brahmapur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.9000000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.91000000000011
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.92000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.93000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.94000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.95000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.96000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.97000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.98000000000015
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.23999999999998
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.23999999999998
+85.00000000000016
+Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.7
+Kankia, Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.71000000000001
+Kankia, Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.72000000000001
+Kankia, Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.73000000000002
+Golantara, Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.74000000000002
+Golantara, Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.75000000000003
+Golantara, Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.76000000000003
+Kanisi, Ganjām, Ganjam, Odisha, 761008, India
+19.22999999999998
+84.77000000000004
+Kanisi, Ganjām, Ganjam, Odisha, 761008, India
+19.22999999999998
+84.78000000000004
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.79000000000005
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.80000000000005
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.81000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.82000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.22999999999998
+84.83000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.22999999999998
+84.84000000000007
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.85000000000008
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.86000000000008
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.87000000000009
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.8800000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.8900000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.9000000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.91000000000011
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.92000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.93000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.94000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.95000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.96000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.97000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.22999999999998
+84.98000000000015
+Ganjām, Ganjam, Odisha, India
+19.22999999999998
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.22999999999998
+85.00000000000016
+Ganjām, Ganjam, Odisha, India
+19.219999999999978
+84.7
+Kankia, Ganjām, Ganjam, Odisha, India
+19.219999999999978
+84.71000000000001
+Kankia, Ganjām, Ganjam, Odisha, India
+19.219999999999978
+84.72000000000001
+Golantara, Ganjām, Ganjam, Odisha, India
+19.219999999999978
+84.73000000000002
+Golantara, Ganjām, Ganjam, Odisha, India
+19.219999999999978
+84.74000000000002
+Golanthra, NH16, Dharma Nagar, Girisola, Ganjām, Ganjam, Odisha, 532312, India
+19.219999999999978
+84.75000000000003
+NH16, Dharma Nagar, Girisola, Ganjām, Ganjam, Odisha, 532312, India
+19.219999999999978
+84.76000000000003
+NH16, Dharma Nagar, Rerhisumandl, Ganjām, Ganjam, Odisha, 532312, India
+19.219999999999978
+84.77000000000004
+Kanisi, Ganjām, Ganjam, Odisha, 761008, India
+19.219999999999978
+84.78000000000004
+Kanisi, Ganjām, Ganjam, Odisha, 761008, India
+19.219999999999978
+84.79000000000005
+Kanisi, Ganjām, Ganjam, Odisha, India
+19.219999999999978
+84.80000000000005
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.219999999999978
+84.81000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.219999999999978
+84.82000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.219999999999978
+84.83000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.219999999999978
+84.84000000000007
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.85000000000008
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.86000000000008
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.87000000000009
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.8800000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.8900000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.9000000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.91000000000011
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.92000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.93000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.94000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.95000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.96000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.97000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.219999999999978
+84.98000000000015
+Ganjām, Ganjam, Odisha, India
+19.219999999999978
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.219999999999978
+85.00000000000016
+Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.7
+Kankia, Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.71000000000001
+Kankia, Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.72000000000001
+Golantara, Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.73000000000002
+Golantara, Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.74000000000002
+Golantara, Ganjām, Ganjam, Odisha, 761008, India
+19.209999999999976
+84.75000000000003
+Golantara, Ganjām, Ganjam, Odisha, 761008, India
+19.209999999999976
+84.76000000000003
+Golantara, Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.77000000000004
+Golantara, Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.78000000000004
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.209999999999976
+84.79000000000005
+Kanisi, Ganjām, Ganjam, Odisha, 761008, India
+19.209999999999976
+84.80000000000005
+Kanisi, Ganjām, Ganjam, Odisha, 761008, India
+19.209999999999976
+84.81000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.82000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.83000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.84000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.85000000000008
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.86000000000008
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.87000000000009
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.8800000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.8900000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.9000000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.91000000000011
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.92000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.93000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.94000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.95000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.96000000000014
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.209999999999976
+84.97000000000014
+Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.98000000000015
+Ganjām, Ganjam, Odisha, India
+19.209999999999976
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.209999999999976
+85.00000000000016
+Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.7
+Girisola, Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.71000000000001
+Girisola, Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.72000000000001
+Golantara, Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.73000000000002
+Golantara, Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.74000000000002
+NH16, Dharma Nagar, Girisola, Ganjām, Ganjam, Odisha, 532312, India
+19.199999999999974
+84.75000000000003
+Golantara, Ganjām, Ganjam, Odisha, 761008, India
+19.199999999999974
+84.76000000000003
+Golantara, Ganjām, Ganjam, Odisha, 761008, India
+19.199999999999974
+84.77000000000004
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.199999999999974
+84.78000000000004
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.199999999999974
+84.79000000000005
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.199999999999974
+84.80000000000005
+Brahmapur, Ganjām, Ganjam, Odisha, 761008, India
+19.199999999999974
+84.81000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, 761008, India
+19.199999999999974
+84.82000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.83000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.84000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.85000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.86000000000008
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.199999999999974
+84.87000000000009
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.199999999999974
+84.8800000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.199999999999974
+84.8900000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.199999999999974
+84.9000000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.199999999999974
+84.91000000000011
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.199999999999974
+84.92000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.199999999999974
+84.93000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.199999999999974
+84.94000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.199999999999974
+84.95000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.199999999999974
+84.96000000000014
+Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.97000000000014
+Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.98000000000015
+Ganjām, Ganjam, Odisha, India
+19.199999999999974
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.199999999999974
+85.00000000000016
+Ganjām, Ganjam, Odisha, India
+19.189999999999973
+84.7
+Girisola, Ganjām, Ganjam, Odisha, India
+19.189999999999973
+84.71000000000001
+Girisola, Ganjām, Ganjam, Odisha, India
+19.189999999999973
+84.72000000000001
+Girisola, Ganjām, Ganjam, Odisha, India
+19.189999999999973
+84.73000000000002
+Girisola, Ganjām, Ganjam, Odisha, 761008, India
+19.189999999999973
+84.74000000000002
+Golantara, Ganjām, Ganjam, Odisha, India
+19.189999999999973
+84.75000000000003
+Golantara, Ganjām, Ganjam, Odisha, 761008, India
+19.189999999999973
+84.76000000000003
+Golantara, Ganjām, Ganjam, Odisha, 761008, India
+19.189999999999973
+84.77000000000004
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.189999999999973
+84.78000000000004
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.189999999999973
+84.79000000000005
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.189999999999973
+84.80000000000005
+Brahmapur, Ganjām, Ganjam, Odisha, 761008, India
+19.189999999999973
+84.81000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, 761008, India
+19.189999999999973
+84.82000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.189999999999973
+84.83000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, India
+19.189999999999973
+84.84000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.189999999999973
+84.85000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.189999999999973
+84.86000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.189999999999973
+84.87000000000009
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.189999999999973
+84.8800000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.189999999999973
+84.8900000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.189999999999973
+84.9000000000001
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.189999999999973
+84.91000000000011
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.189999999999973
+84.92000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.189999999999973
+84.93000000000012
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.189999999999973
+84.94000000000013
+Gopalpur, Ganjām, Ganjam, Odisha, 761002, India
+19.189999999999973
+84.95000000000013
+Ganjām, Ganjam, Odisha, India
+19.189999999999973
+84.96000000000014
+Ganjām, Ganjam, Odisha, India
+19.189999999999973
+84.97000000000014
+Ganjām, Ganjam, Odisha, India
+19.189999999999973
+84.98000000000015
+Ganjām, Ganjam, Odisha, India
+19.189999999999973
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.189999999999973
+85.00000000000016
+Ganjām, Ganjam, Odisha, India
+19.17999999999997
+84.7
+Girisola, Ganjām, Ganjam, Odisha, 761008, India
+19.17999999999997
+84.71000000000001
+Girisola, Ganjām, Ganjam, Odisha, 761008, India
+19.17999999999997
+84.72000000000001
+NH16, Dharma Nagar, Girisola, Ganjām, Ganjam, Odisha, 532312, India
+19.17999999999997
+84.73000000000002
+NH16, Dharma Nagar, Rerhisumandl, Ganjām, Ganjam, Odisha, 532312, India
+19.17999999999997
+84.74000000000002
+Bahadur Pentho Road, Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.17999999999997
+84.75000000000003
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.17999999999997
+84.76000000000003
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.17999999999997
+84.77000000000004
+Bhairabi-Bahadur Pentho Road, Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.17999999999997
+84.78000000000004
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.17999999999997
+84.79000000000005
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.17999999999997
+84.80000000000005
+Brahmapur, Ganjām, Ganjam, Odisha, 761008, India
+19.17999999999997
+84.81000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, 761008, India
+19.17999999999997
+84.82000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, 761008, India
+19.17999999999997
+84.83000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.17999999999997
+84.84000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.17999999999997
+84.85000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.17999999999997
+84.86000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.17999999999997
+84.87000000000009
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.17999999999997
+84.8800000000001
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.17999999999997
+84.8900000000001
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.17999999999997
+84.9000000000001
+Ganjām, Ganjam, Odisha, India
+19.17999999999997
+84.91000000000011
+Ganjām, Ganjam, Odisha, India
+19.17999999999997
+84.92000000000012
+Ganjām, Ganjam, Odisha, India
+19.17999999999997
+84.93000000000012
+Ganjām, Ganjam, Odisha, India
+19.17999999999997
+84.94000000000013
+Ganjām, Ganjam, Odisha, India
+19.17999999999997
+84.95000000000013
+Ganjām, Ganjam, Odisha, India
+19.17999999999997
+84.96000000000014
+Ganjām, Ganjam, Odisha, India
+19.17999999999997
+84.97000000000014
+Ganjām, Ganjam, Odisha, India
+19.17999999999997
+84.98000000000015
+Ganjām, Ganjam, Odisha, India
+19.17999999999997
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.17999999999997
+85.00000000000016
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.7
+Girisola, Ganjām, Ganjam, Odisha, 761008, India
+19.16999999999997
+84.71000000000001
+Girisola, Ganjām, Ganjam, Odisha, 761008, India
+19.16999999999997
+84.72000000000001
+Nuvalrevu, Ganjām, Ganjam, Odisha, 761008, India
+19.16999999999997
+84.73000000000002
+Nuvalrevu, Ganjām, Ganjam, Odisha, 761008, India
+19.16999999999997
+84.74000000000002
+Bahadur Pentho Road, Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.16999999999997
+84.75000000000003
+Bahadur Pentho Road, Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.16999999999997
+84.76000000000003
+Bahadur Pentho Road, Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.16999999999997
+84.77000000000004
+Bhairabi-Bahadur Pentho Road, Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.16999999999997
+84.78000000000004
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.16999999999997
+84.79000000000005
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.16999999999997
+84.80000000000005
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.16999999999997
+84.81000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.16999999999997
+84.82000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.16999999999997
+84.83000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.16999999999997
+84.84000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.16999999999997
+84.85000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.16999999999997
+84.86000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.16999999999997
+84.87000000000009
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.16999999999997
+84.8800000000001
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.8900000000001
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.9000000000001
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.91000000000011
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.92000000000012
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.93000000000012
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.94000000000013
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.95000000000013
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.96000000000014
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.97000000000014
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.98000000000015
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.16999999999997
+85.00000000000016
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.7
+Purushottampuram, Srikakulam, Andhra Pradesh, 532312, India
+19.159999999999968
+84.71000000000001
+NH16, Dharma Nagar, Girisola, Ganjām, Ganjam, Odisha, 532312, India
+19.159999999999968
+84.72000000000001
+Girisola, Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.73000000000002
+Nuvalrevu, Ganjām, Ganjam, Odisha, 761008, India
+19.159999999999968
+84.74000000000002
+Nuvalrevu, Ganjām, Ganjam, Odisha, 761008, India
+19.159999999999968
+84.75000000000003
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.159999999999968
+84.76000000000003
+Bhairabi-Bahadur Pentho Road, Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.159999999999968
+84.77000000000004
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.159999999999968
+84.78000000000004
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.159999999999968
+84.79000000000005
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.159999999999968
+84.80000000000005
+Bahadur Pentho, Ganjām, Ganjam, Odisha, 761008, India
+19.159999999999968
+84.81000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.159999999999968
+84.82000000000006
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.159999999999968
+84.83000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.159999999999968
+84.84000000000007
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.159999999999968
+84.85000000000008
+Brahmapur, Ganjām, Ganjam, Odisha, 760004, India
+19.159999999999968
+84.86000000000008
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.87000000000009
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.8800000000001
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.8900000000001
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.9000000000001
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.91000000000011
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.92000000000012
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.93000000000012
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.94000000000013
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.95000000000013
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.96000000000014
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.97000000000014
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.98000000000015
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+84.99000000000015
+Ganjām, Ganjam, Odisha, India
+19.159999999999968
+85.00000000000016
+Dist. Judges Court

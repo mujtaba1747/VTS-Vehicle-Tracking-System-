@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+	<head>
+		<script src="jquery-3.4.1.min.js"></script>
+		<script type = "application/javascript">
+			var URL = "http://localhost:8080"
+			var k = 0;
+			var str;
+			var BusNo;
+			function InputFunction()
+			{
+			  BusNo = prompt("Please enter Bus Number\n (21, 34, 16, 3, 17, 13, 18, 36, 24, 14, 4, 6, 1, 35, 9, 23, 22, 20, 19, 11, 15, 2)");	
+			  if (BusNo != null)
+			  {
+			    document.getElementById("BusNo").innerHTML = BusNo;
+			    start();
+			  }
+			}
+			 function FetchJSON()
+			 {
+	   			console.log("Sending Request Now ..");
+	   			$.ajax({
+	   				url: "http://localhost:8080",
+	   				method: "GET",
+	   				crossDomain: true,
+	   				success: function(res){
+	   					for(i in res.busDetails)
+	   					{
+	   						if(res.busDetails[i].busNum==BusNo)
+	   						{
+			   					console.log("data is " + JSON.stringify(res.busDetails[i]));
+			   					document.getElementById("Speed").innerHTML = res.busDetails[i].speed.substring(0, 4);;
+			   					document.getElementById("Latitude").innerHTML = res.busDetails[i].lat.substring(0, 4);
+			   					document.getElementById("Longitude").innerHTML = res.busDetails[i].lng.substring(0, 4);
+			   					if(res.busDetails[i].isMoving == "0")
+			   						document.getElementById("State").innerHTML = "Stopped";
+			   					else 
+			   						document.getElementById("State").innerHTML = "Moving";
+			   					document.getElementById("Location").innerHTML = res.busDetails[i].location;
+			   					break;
+	   						}
+	   					}
+	   				},
+	   				error: function(res){
+	   					for(i in res.busDetails)
+	   					{
+	   						if(res.busDetails[i].busNum==BusNo)
+	   						{
+			   					console.log("data is " + JSON.stringify(res.busDetails[i]));
+			   					document.getElementById("Speed").innerHTML = res.busDetails[i].speed;
+			   					document.getElementById("Latitude").innerHTML = res.busDetails[i].lat;
+			   					break;
+	   						}
+	   					}
+	   				}
+	   			})
+	         	}
+			function start()
+			{
+			  setInterval(FetchJSON, 5000);
+			}
+		</script>
+</head>
+<body>
+<p> Click on Start to begin. </p>
+<button onclick = "InputFunction()">Start</button>
+<table class = "src">
+         <tr><th>BusNo</th><th>Speed</th><th>Latitude</th><th>Longitude</th><th>State</th><th>Geolocation</th></tr>
+         <tr><td><div id = "BusNo">0</div></td>
+         <td><div id = "Speed">0</div></td>
+         <td><div id = "Latitude">0</div></td>
+         <td><div id = "Longitude">0</div></td>
+         <td><div id = "State">0</div></td>
+         <td><div id = "Location">0</div></td></tr>
+      </table>
+
+</body></html>
+

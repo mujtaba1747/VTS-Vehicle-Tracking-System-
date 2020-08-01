@@ -1,0 +1,18 @@
+--------------------------------IMPORTANT--------------------------------
+DOCUMENTATION
+It is strongly recommended to use this Step by Step guide.
+
+Step 1 : Run 01SERVER.py using python2.7, it will start a simple server on port 8080 to serve GET requests sent by the Server/Command Line Application
+
+Step 2 : Load HTML page preferably on Firefox with CORS extension installed as all modern browsers prevent Cross Origin Requests for obvious security reasons
+Install the CORS extension for FIREFOX from https://addons.mozilla.org/en-US/firefox/addon/cors-everywhere/
+
+After installing the extension, click on it's icon to enable it
+Step 3 : Load the HTML page on Firefox, it's not working on Chrome due to Cross-Origin Read Blocking (CORB)
+
+Step 4 : Take a look at my command line interface 03cli.py(Run the CLI in python3) after starting the server in python2.7.
+
+Step 5 : After reviewing my Page make sure to Delete the CORS extension as it is a Security Vulnerability
+
+Step 6 : I have also Included the python files 05map_Data_cache.py and busdata_scrape.py which I used to cache the Map data and Bus JSON data respectively. Also included the code which I used for randomization
+-------------------------------------------------------------------------
